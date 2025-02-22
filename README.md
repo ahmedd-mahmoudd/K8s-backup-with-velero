@@ -1,6 +1,6 @@
 # Kubernetes Backup with Velero & AWS S3
 
-![Velero Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Velero-logo.svg)
+![Velero Logo](https://www.returngis.net/wp-content/uploads/2022/05/Velero-logo.jpeg)
 
 ## Overview
 This repository contains a **Bash script** to automate the setup of **Velero** for backing up and restoring Kubernetes clusters using **AWS S3**. The script installs and configures all necessary tools, ensuring a smooth deployment of Velero.
